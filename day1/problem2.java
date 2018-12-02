@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
-class Main {
+class Problem2 {
 
 
   private static final String FILENAME = "puzzle_input.txt";

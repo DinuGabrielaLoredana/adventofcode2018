@@ -1,7 +1,7 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-class Main {
+class Problem1 {
   private static final String FILENAME = "puzzle_input.txt";
   public static void main(String[] args)  {
     BufferedReader br = null;
